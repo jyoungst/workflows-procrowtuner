@@ -1,0 +1,7 @@
+{
+  "name": "Ai Procrowtuning Hub & ECU Master Portal",
+  "description": "Android 12 Xtrons & USB-C OTG Host App bridging CAN/Serial to Wi-Fi/Bluetooth for Hermes LLM. Features Standalone ECU live tuner with AI tuning watchdog, Stock DME/ECU Copycat map cloner, Arduino Uno Q legacy bridge, universal ECU protocol matrix, BDM/JTAG bench programmer, BCM security controller, XDF/OLS/BIN tune flasher, and ESP32-D AI signal emulator code compiler.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
